@@ -50,6 +50,6 @@
 </div>
 
 <div justify-content="center" align="center">
- <a href="https://github.com/mrevanzak/mrevanzak"><img align="center" width="50%" display="flex" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrevanzak&show_icons=true&theme=dracula&layout=compact&hide_border=true&hide=Other,Others,Text,JSON,lir&custom_title=Wakatime%20Total%20Stats%20Since%20May%202022" alt="mrevanzak's Wakatime stats" /></a><a href="https://github.com/mrevanzak/mrevanzak"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mrevanzak&theme=dracula&hide_border=true&count_private=true&hide=issues&show_icons=true" /></a>
+ <a href="https://github.com/mrevanzak/mrevanzak"><img align="center" width="50%" display="flex" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrevanzak&show_icons=true&theme=dracula&layout=compact&hide_border=true&hide=Other,Others,Text,JSON,lir&custom_title=Wakatime%20Total%20Stats%20Since%20January%202023" alt="mrevanzak's Wakatime stats" /></a><a href="https://github.com/mrevanzak/mrevanzak"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mrevanzak&theme=dracula&hide_border=true&count_private=true&hide=issues&show_icons=true" /></a>
   <a href="https://github.com/mrevanzak/mrevanzak"><img align="center" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrevanzak&layout=compact&langs_count=10&theme=dracula&)" /></a>
  </div>
