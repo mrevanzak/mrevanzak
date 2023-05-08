@@ -57,5 +57,5 @@
 <div justify-content="center" align="center">
   <a href="https://github.com/mrevanzak/mrevanzak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrevanzak&theme=dracula&hide_border=true&count_private=true&hide=issues&show_icons=true" /></a>
   <br>
- <a href="https://github.com/mrevanzak/mrevanzak"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrevanzak&show_icons=true&theme=dracula&layout=compact&hide_border=true&hide=Other,Others,Text,JSON,lir&custom_title=Wakatime%20Total%20Stats%20Since%20January%202023" alt="mrevanzak's Wakatime stats" /></a>
+ <a href="https://github.com/mrevanzak/mrevanzak"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrevanzak&show_icons=true&theme=dracula&layout=compact&hide_border=true&hide=Other,Others,Text,JSON,lir&custom_title=Wakatime%20Total%20Stats%20Since%20January%202023&langs_count=10" alt="mrevanzak's Wakatime stats" /></a>
  </div>
